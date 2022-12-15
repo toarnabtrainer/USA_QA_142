@@ -3,6 +3,7 @@ https://drive.google.com/file/d/0B7hJ_tX3yJUiVk11QWdxQXRLME0/view?resourcekey=0-
 
 HTML Color Codes Site Link: https://htmlcolorcodes.com/
 
+Selenium Tutorial Link: https://www.javatpoint.com/selenium-tutorial
 
 SeleniumProg1.ipynb Code:
 -------------------------
