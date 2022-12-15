@@ -11,3 +11,10 @@ from selenium import webdriver
 
 # check the version of selenium
 print (webdriver.__version__)
+
+# check whether the chrome driver is present in the current directory or not
+# otherwise provide the relative path of the chromw driver
+driver = webdriver.Chrome(executable_path = './chromedriver.exe')
+
+# start wikipedia page
+driver.get('https://en.wikipedia.org/wiki/Main_Page')
